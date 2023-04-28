@@ -1,0 +1,1 @@
+# Code from RabbitMQ Guide using RabbitMQ.Client (C#)
